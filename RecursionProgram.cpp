@@ -1,5 +1,3 @@
-// Lab 2 ORTIZ, KATIE TH
-
 #include "calculations.h"
 
 int main()
