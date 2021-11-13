@@ -1,5 +1,3 @@
-// Lab 2 ORTIZ, KATIE TH
-
 #include <iostream>
 using namespace std;
 
